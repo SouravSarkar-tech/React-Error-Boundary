@@ -1,0 +1,13 @@
+h5 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h5 span {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 4px;
+    background: rgb(228, 45, 69);
+    border-radius: 5px 10px;
+    border-bottom: 4px solid #030303
+}
